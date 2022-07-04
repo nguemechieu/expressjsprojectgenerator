@@ -9,11 +9,11 @@ start_script
  and then run the once the dollar sign appears
 ########################################################################
 
-## enter bash follow by the name of the script
+## Enter "bash" followed by "expressgenerator.sh"
 
 ## Example
 
-bash expressjsgenerator.sh
+~$: bash expressjsgenerator.sh
 
 ################################
 
