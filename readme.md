@@ -1,10 +1,10 @@
 # Welcome to    ExpressJsProjectGenerator
 
-## Please follow the instructions in the documentation to run this script
+## Please follow the instructions below  to run this script
 
-################################
-start_script
-   First open the command line  as administrators or bash users
+
+######### To Start this script
+  ## First open the command line  as administrators or bash users
    ##########################################################################
  and then run the once the dollar sign appears
 ########################################################################
