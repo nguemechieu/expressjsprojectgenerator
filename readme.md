@@ -11,7 +11,7 @@
 #################################################
 ## Example
 
-$~: bash express-js-files-generator.sh
+$~: bash expressgenerator.sh
 # Then press enter to run the script
 #####################################################
 
