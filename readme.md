@@ -1,19 +1,20 @@
-# Welcome to ExpressProjectGenerator
+# welcome to    express-js-files generator
 
 ## Please follow the instructions in the documentation to run this script
-#######################################################################
-## First open the command line  as administrators or bash users
-   ####
- ### When the dollar sign appears on the screen ('$:')
+
+################################
+start_script
+   First open the command line  as administrators or bash users
+   ##########################################################################
+ and then run the once the dollar sign appears
 ########################################################################
 
-## Enter "bash" follow by "expressgenerator.sh"  
-#################################################
+## enter bash follow by the name of the script
+
 ## Example
 
-$~: bash expressgenerator.sh
-# Then press enter to run the script
-#####################################################
+bash express-js-files-generator.sh
+
+################################
 
 Thanks for  using   this script
-#####################################
