@@ -13,7 +13,7 @@ start_script
 
 ## Example
 
-bash express-js-files-generator.sh
+bash expressjsgenerator.sh
 
 ################################
 
