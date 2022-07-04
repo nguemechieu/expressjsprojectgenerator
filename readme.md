@@ -5,11 +5,12 @@
 
 ######### To Start this script
   ## First open the command line  as administrators or bash users
-   ##########################################################################
- and then run the once the dollar sign appears
-########################################################################
+   ############################################
+ ## Secondly 
+ ## run the once the dollar sign appears
+#####################################
 
-## Enter "bash" followed by "expressgenerator.sh"
+#### Enter "bash" followed by "expressgenerator.sh"
 
 ## Example
 
