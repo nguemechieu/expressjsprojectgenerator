@@ -16,10 +16,11 @@ echo "  Openning" $data" directory."
 cd $data
 echo "Trying to Install npm and yarn commands..."
 apt-get install npm
-npm init
 apt-get install yarn
+npm init
 echo "updating system properties..."
 apt-get update
+
 
 echo "Creating a new Express js  package.json package-lock.json..."
 echo "creating app.js"
@@ -55,6 +56,9 @@ echo "Creating controllers"
 cd controllers
 touch users.controllers.js 
 cd -
+cd routes
+touch routes.refresh.js routes.register.js routes.auth.login.js,routes.logout.js routes.root.js 
+cd -
 
 cd public
 mkdir upload  stylesheets javascripts images txts files videos
@@ -75,16 +79,11 @@ touch views.singUp.html
 touch index.html
 
 touch views.homePage.html
-cd --
+cd -
 
 echo "opening routes"
 
-cd routes
-touch routes.refresh.js routes.register.js routes.auth.login.js,routes.logout.js routes.root.js 
-mkdir api
-cd api
-echo "Creating users api"
-touch api.users.js
+npm install
 
 echo "Done..."
 echo "Operation completed !You can now open the application folder named" $data
