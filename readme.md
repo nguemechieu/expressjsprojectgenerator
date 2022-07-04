@@ -3,11 +3,11 @@
 ## Please follow the instructions in the documentation to run this script
 #######################################################################
 ## First open the command line  as administrators or bash users
-   ###################
-When the dollar sign appears on the screen ('$:')
+   ####
+ ### When the dollar sign appears on the screen ('$:')
 ########################################################################
 
-## Enter "bash" follow by expressgenerator.sh  
+## Enter "bash" follow by "expressgenerator.sh"  
 #################################################
 ## Example
 
@@ -16,3 +16,4 @@ $~: bash expressgenerator.sh
 #####################################################
 
 Thanks for  using   this script
+#####################################
