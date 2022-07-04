@@ -7,8 +7,7 @@
   ## First open the command line  as administrators or bash users
    ############################################
  ## Secondly 
- ## run the once the dollar sign appears
-#####################################
+ ##When the dollar sign appears (~$:)
 
 #### Enter "bash" followed by "expressgenerator.sh"
 
@@ -19,3 +18,4 @@
 ################################
 
 Thanks for  using   this script
+######################################
