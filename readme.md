@@ -1,4 +1,4 @@
-# welcome to    express-js-files generator
+# Welcome to    ExpressJsProjectGenerator
 
 ## Please follow the instructions in the documentation to run this script
 
