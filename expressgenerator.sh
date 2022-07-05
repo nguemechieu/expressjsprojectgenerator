@@ -9,6 +9,7 @@ echo "Thanks you!"
 mkdir $data
 echo "Trying to generate git repositories"
 apt-get install git
+
 echo "initializing git repositories..."
 git init
 echo "Your ExpressJs project name is" $data;
@@ -20,7 +21,7 @@ apt-get install yarn
 npm init
 echo "updating system properties..."
 apt-get update
-
+touch .env
 
 echo "Creating a new Express js  package.json package-lock.json..."
 echo "creating app.js"
